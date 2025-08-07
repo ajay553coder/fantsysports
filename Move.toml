@@ -1,0 +1,15 @@
+[package]
+name = "fantsySports"
+version = "1.0.0"
+authors = []
+
+[addresses]
+my_addr="0xd162480a1533f7f75584bc703e86add9647fcd325df44b24fb83aaf30d9a7c6e"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
