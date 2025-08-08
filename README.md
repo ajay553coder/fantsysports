@@ -6,7 +6,7 @@ Create fantasy leagues with scoring and prize distribution on the Aptos blockcha
 ## Project Vision
 To revolutionize fantasy sports by leveraging blockchain technology to ensure transparent, secure, and automated league management. Our platform aims to eliminate traditional intermediaries while providing players with complete ownership of their fantasy sports experience through decentralized smart contracts.
 
-## Key Features
+## Key Feature
 
 ### 🏆 **Decentralized League Creation**
 - Create custom fantasy leagues with configurable entry fees
